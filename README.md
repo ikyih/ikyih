@@ -6,7 +6,7 @@
         <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
     <a href="[[https://www.php.net]]">
-        <img src="https://skillicons.dev/icons?i=md" alt="php">
+        <img src="https://skillicons.dev/icons?i=php" alt="php">
     </a>
 
 <h4>Tools</h4>
