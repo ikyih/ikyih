@@ -1,63 +1,17 @@
-<!---
-intancote/intancote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Statuses (Maybe adding more later)
-
-[![Discord: intancote](https://discord.c99.nl/widget/theme-4/416968141869154304.png)](https://discord.com/users/416968141869154304)
-
-[![last.fm](https://lastfm-recently-played.vercel.app/api?user=intancote&count=1)](https://www.last.fm/user/intancote)
-Funny last.fm shiz
 
 ## Current Stuff
 
 <h4>Languages</h4>
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-        <img src="https://skillicons.dev/icons?i=bash" alt="bash">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-    </a>
-    <a href="https://haxe.org/">
-        <img src="https://skillicons.dev/icons?i=haxe" alt="Haxe">
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
-    <a href="https://www.lua.org/">
-        <img src="https://skillicons.dev/icons?i=lua" alt="Lua">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Markdown">
-        <img src="https://skillicons.dev/icons?i=md" alt="Markdown">
-    </a>
-    <a href="https://learn.microsoft.com/en-us/powershell/">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell">
-    </a>
-    <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python">
+    <a href="[[https://www.php.net]]">
+        <img src="https://skillicons.dev/icons?i=md" alt="php">
     </a>
 
 <h4>Tools</h4>
-    <a href="https://www.cloudflare.com/">
-        <img src="https://skillicons.dev/icons?i=cf" alt="Cloudflare">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" alt="git">
-    </a>
     <a href="https://github.com/Intancote/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-    </a>
-    <a href="https://github.com/features/actions">
-        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions">
-    </a>
-    <a href="https://haxeflixel.com/">
-        <img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel">
-    </a>
-    <a href="https://www.adobe.com/products/photoshop.html">
-        <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop">
-    </a>
-    <a href="https://github.com/microsoft/vscode">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
     </a>
 
 <h4>Socials</h4>
