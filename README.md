@@ -10,3 +10,8 @@
     <a href="https://github.com/ikyih/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     </a>
+
+<a href="https://sketch.com/“>
+        <img src="https://ikyih.github.io/more-spsific-skill-icons/icons?i=Sketch” alt="GitHub">
+    </a>
+
