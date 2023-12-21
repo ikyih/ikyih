@@ -10,5 +10,9 @@
     <a href="https://github.com/ikyih/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     </a>
+     <a href="sketch.com">
+        <img src="https://github.com/ikyih/more-spsific-skill-icons/raw/main/sketch48.svg" alt="GitHub">
+    </a>
+    
 
 
