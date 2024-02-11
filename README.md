@@ -21,4 +21,4 @@ https://raw.githubusercontent.com/ssiskskk/Octo-ring-sunset/main/octo-previous.p
 [![](https://raw.githubusercontent.com/ssiskskk/Octo-ring-sunset/main/octo-bottoom.png)](https://octo-ring.com/)
 
 
-<iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/2523829"><a href="https://ikyih.itch.io/mission-in-snowdriftland-japanese">雪の吹き溜まりの地でのミッション (Yuki no no fuki-chi-chi de misshon) by ikyih</a></iframe>
+
