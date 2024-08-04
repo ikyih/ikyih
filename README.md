@@ -5,7 +5,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
-   
+  <h4>Languages i'm Learning</h4>
+  <a href="https://www.lua.org/docs.html">
+        <img src="https://skillicons.dev/icons?i=html" alt="Lua">
 <h4>Tools</h4>
     <a href="https://github.com/ikyih/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
