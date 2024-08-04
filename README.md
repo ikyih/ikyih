@@ -7,7 +7,7 @@
     </a>
   <h4>Languages i'm Learning</h4>
   <a href="https://www.lua.org/docs.html">
-        <img src="https://skillicons.dev/icons?i=html" alt="Lua">
+        <img src="https://skillicons.dev/icons?i=Lua" alt="Lua">
 <h4>Tools</h4>
     <a href="https://github.com/ikyih/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
